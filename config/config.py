@@ -3,7 +3,7 @@
 import os
 
 # === PLAYWRIGHT SETTINGS ===
-PLAYWRIGHT_HEADLESS = False
+PLAYWRIGHT_HEADLESS = True
 PLAYWRIGHT_PROXY = os.getenv("PROXY_URL", None)  # e.g. "http://user:pass@host:port"
 
 # === INSTALOADER ===
