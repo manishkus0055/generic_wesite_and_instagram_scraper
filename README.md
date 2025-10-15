@@ -1,4 +1,4 @@
-# 🌐 Universal Web Scraper
+# 🌐 Generic & Instagram Web Scraper
 
 A powerful and flexible Python-based web scraper that supports scraping **Instagram profiles** and **generic websites** with structured outputs and categorized downloads.
 
